@@ -12,6 +12,6 @@ nextBtn.addEventListener("click", () => {
     nextBtn.innerHTML = "reply";
     nextClicked = true;
   } else {
-    window.location.href = "https://wa.me//+628571483028?text=reply%20message%20whatever";
+    window.location.href = "https://wa.me//+6285714830208?text=reply%20message%20whatever";
   }
 });
